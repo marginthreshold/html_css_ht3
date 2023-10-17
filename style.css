@@ -34,7 +34,6 @@ html{
 
 body{
     margin: 0;
-    border: 1px solid #000;
     width: 1319px;
     height: 928px;
     margin-right: 303px;
@@ -48,7 +47,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #0150E9;
     margin-top: 14px;
     margin-right: 12px;
     margin-left: 18px;
@@ -58,7 +56,6 @@ body{
     height: 40px;
     display: flex;
     justify-content: center;
-    border: 1px solid #20C905;
     align-items: center;
     gap: 15px;
     display: flex;
@@ -94,7 +91,6 @@ body{
 .section-param{
     width: 1274px;
     height: 536px;
-    border: 1px solid #E99C08;
     margin-top: 21px;
     margin-right: 12px;
     margin-left: 18px;
@@ -103,7 +99,6 @@ body{
 .middle-block {
     width: 589px;
     height: 494px;
-    border: 1px solid #BD0EFB;
     margin-top: 15px;
     margin-left: 16px; 
 }
@@ -131,7 +126,6 @@ body{
 .middle-floor{
     width: 374px;
     height: 94px;
-    border: 1px solid #FF1DA4;
     margin-top: 16px;   
     margin-left: 20px;
     display: flex;
@@ -159,7 +153,6 @@ body{
 .footer{
     width: 1240px;
     height: 158px;
-    border: 1px solid #19FBFB;
     margin-top: 38px;
     margin-left: 34px;
     display: flex;
